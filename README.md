@@ -5,4 +5,4 @@ Machine Learning Codes &amp; Algorithms
 ```$y = mx + c$```
 
 ## 02. Multi Variable Linear Regression
-```$y = m_1x_1 + m_2x_2 + m_3x_3 + ... + c$```
+$y = m_1x_1 + m_2x_2 + m_3x_3 + ... + c$
